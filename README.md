@@ -1,4 +1,4 @@
-  🚀 Next Level Week
+#  🚀 Next Level Week
 </h2>
 
 <p align="center">
@@ -31,3 +31,5 @@ Extras:
 ## 💻 Projeto
 
 O **Ecoleta** é um projeto que visa conectar pessoas há pontos de coletas de resíduos descartáveis para reciclagem.
+
+![Ecoleta](https://github.com/Guilherme775/Ecoleta/blob/master/frontend/src/assets/Site6.PNG)
